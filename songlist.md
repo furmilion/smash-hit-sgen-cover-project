@@ -113,7 +113,7 @@ Stage 3 "part3":
 `29.ogg`
 
 Stage 4 "part4":
-29_2.ogg
+`29_2.ogg`
 
 ## Checkpoint 10 "Hyperspace":
 Stage 1 "cruise":
