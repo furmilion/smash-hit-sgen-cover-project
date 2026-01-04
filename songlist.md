@@ -1,6 +1,6 @@
 # Smash Hit songs List
 
-### For the table see [here](#completed).
+### For the completed song table see [here](#completed).
 
 ## Checkpoint Intro "Basic":
 Stage 1 "basic": 
