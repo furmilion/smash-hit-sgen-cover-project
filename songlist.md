@@ -1,8 +1,10 @@
 # Smash Hit songs List
 
+### For the table see [here](#completed).
+
 ## Checkpoint Intro "Basic":
 Stage 1 "basic": 
-`0.ogg` (#444444)[#444444]
+`0.ogg`
 
 Stage 2 "dark":
 `1.ogg`
@@ -158,3 +160,20 @@ Stage 4 "space0":
 `25.ogg`
 
 Endless zone map: `1-2-3-1-4-3-1-2-4-1-3-1-4-2-3-1-3-1-4-2-3-1-4-2-3-1-3-1-4-2`
+
+---
+
+<a href="completed"><a/>
+The completed song table:
+
+`✓` - Done
+`#` - WIP
+`✗` - Not started
+
+| === | 0 | 1 |   2   | 3 | 4 | 5 |   6   | 7 |   8    |   9    |
+|:---:|:-:|:-:|:-----:|:-:|:-:|:-:|:-----:|:-:|:------:|:------:|
+|  0  |   |   |       |   |   |   |       |   |        |        |
+|  1  |   |   | **#** |   |   |   |       |   |        | **✓**  |
+|  2  |   |   |       |   |   |   | **✓** |   |        | **✓#** |
+|  3  |   |   |       |   |   |   |       |   | **✓✓** |        |
+|  4  |   |   |       |   |   |   |       |   |        |        |
