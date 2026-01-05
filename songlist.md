@@ -1,6 +1,7 @@
 # Smash Hit songs List
 
-### For the table see [here](#completed).
+### For the table see [here](#stagemap).
+### For the completed song table see [here](#completed).
 
 ## Checkpoint Intro "Basic":
 Stage 1 "basic": 
@@ -33,7 +34,7 @@ Stage 3 "rapid":
 `12.ogg`
 
 Stage 4 "bonus":
-6.ogg
+`6.ogg`
 
 ## Checkpoint 3 "Cave":
 Stage 1 "corridor":
@@ -159,7 +160,40 @@ Stage 3 "open0":
 Stage 4 "space0":
 `25.ogg`
 
-Endless zone map: `1-2-3-1-4-3-1-2-4-1-3-1-4-2-3-1-3-1-4-2-3-1-4-2-3-1-3-1-4-2`
+Endless stage map: `1-2-3-1-4-3-1-2-4-1-3-1-4-2-3-1-3-1-4-2-3-1-4-2-3-1-3-1-4-2`
+
+## Multiplayer
+
+Stage 1 "start":
+`41.ogg`
+
+Stage 2 "split0":
+`42_1.ogg`
+
+Stage 3 "split1":
+`42_2.ogg`
+
+Stage 4 "split1b":
+`42_1.ogg`
+
+Stage 5 "split_rot":
+`43.ogg`
+
+Stage 6 "split2":
+`44.ogg`
+
+Stage 7 "split_solo":
+`19.ogg`
+
+Stage 8 "split_bonus":
+`5.ogg`
+
+Stage 9 "split_rot2":
+`23.ogg`
+
+For COOP mode, all stages are subscripted with `_coop`
+
+Multiplayer stage map: `1-2-3-4-5-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-1-2-3-4-5-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9`
 
 ---
 
@@ -173,7 +207,7 @@ The completed song table:
 |       ===       |   0    |   1    |   2   |   3   |   4   |   5   |   6   |   7   |   8    |   9    |
 |:---------------:|:------:|:------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|
 |        0        | **✗**  | **✗**  | **✗** | **✗** | **✗** | **✗** | **✗** | **✗** | **✗**  | **✗**  |
-|        1        | **✗**  | **✗**  | **#** | **✗** | **✗** | **✗** | **✗** | **✗** | **✗**  | **✓**  |
+|        1        | **✗**  | **✗**  | **✓** | **✗** | **✗** | **✗** | **✗** | **✗** | **✗**  | **✓**  |
 |        2        | **✗**  | **✗**  | **✗** | **✗** | **✗** | **✗** | **✓** | **✗** | **✗**  | **✓#** |
 |        3        | **✗**  | **✗**  | **✗** | **✗** | **✗** | **✗** | **✗** | **✗** | **✓✓** | **✗**  |
 |        4        | **✗**  | **✗**  | **✗** | **✗** | **✗** |       |       |       |        |        |
@@ -183,3 +217,24 @@ The completed song table:
 |    `menu_vs`    | **✗**  |
 |   `menu_zen`    | **✗**  |
 |    `bowling`    | **✗**  |
+---
+
+<a href="stagemap"><a/>
+The checkpoint-stage to song map:
+
+| checkpoint/Zone |   Z1   |    Z2    |    Z3    |    Z4    |    Z5    |   Z6   |   Z7   |  Z8   |   Z9   |
+|:---------------:|:------:|:--------:|:--------:|:--------:|:--------:|:------:|:------:|:-----:|:------:|
+|      INTRO      | 0.ogg  |  1.ogg   |  11.ogg  |          |          |        |        |       |        |
+|       C1        | 19.ogg |  25.ogg  |  20.ogg  |          |          |        |        |       |        |
+|       C2        | 15.ogg |  9.ogg   |  12.ogg  |  6.ogg   |          |        |        |       |        |
+|       C3        | 18.ogg |  24.ogg  |  13.ogg  |  24.ogg  |          |        |        |       |        |
+|       C4        | 2.ogg  |  32.ogg  |  20.ogg  |          |          |        |        |       |        |
+|       C5        | 27.ogg |  19.ogg  |  22.ogg  |  23.ogg  |          |        |        |       |        |
+|       C6        | 30.ogg |  8.ogg   |  31.ogg  |  10.ogg  |          |        |        |       |        |
+|       C7        | 5.ogg  |  16.ogg  |  3.ogg   |          |          |        |        |       |        |
+|       C8        | 32.ogg |  3.ogg   |  17.ogg  |          |          |        |        |       |        |
+|       C9        | 26.ogg |  7.ogg   |  29.ogg  | 29_2.ogg |          |        |        |       |        |
+|       C10       | 35.ogg |  34.ogg  |  36.ogg  |  35.ogg  |          |        |        |       |        |
+|       C11       | 37.ogg |  39.ogg  |  40.ogg  | 38_1.ogg | 38_2.ogg |        |        |       |        |
+|     ENDLESS     | 30.ogg |  4.ogg   |  5.ogg   |  25.ogg  |          |        |        |       |        |
+|       MP        | 41.ogg | 42_1.ogg | 42_2.ogg | 42_1.ogg |  43.ogg  | 44.ogg | 19.ogg | 5.ogg | 23.ogg |
