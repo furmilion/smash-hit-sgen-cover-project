@@ -237,4 +237,4 @@ The checkpoint-stage to song map:
 |       C10       | 35.ogg |  34.ogg  |  36.ogg  |  35.ogg  |          |        |        |       |        |
 |       C11       | 37.ogg |  39.ogg  |  40.ogg  | 38_1.ogg | 38_2.ogg |        |        |       |        |
 |     ENDLESS     | 30.ogg |  4.ogg   |  5.ogg   |  25.ogg  |          |        |        |       |        |
-|       MP        | 41.ogg | 42_1.ogg | 42_2.ogg | 42_1.ogg |  43.ogg  | 44.ogg | 19.ogg | 5.ogg | 23.ogg |
+|   MULTIPLAYER   | 41.ogg | 42_1.ogg | 42_2.ogg | 42_1.ogg |  43.ogg  | 44.ogg | 19.ogg | 5.ogg | 23.ogg |
