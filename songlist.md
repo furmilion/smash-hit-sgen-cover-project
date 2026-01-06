@@ -222,7 +222,7 @@ The completed song table:
 <a name="stagemap"></a>
 The checkpoint-stage to song map:
 
-| checkpoint/Zone |   Z1   |    Z2    |    Z3    |    Z4    |    Z5    |   Z6   |   Z7   |  Z8   |   Z9   |
+| Checkpoint/Zone |   Z1   |    Z2    |    Z3    |    Z4    |    Z5    |   Z6   |   Z7   |  Z8   |   Z9   |
 |:---------------:|:------:|:--------:|:--------:|:--------:|:--------:|:------:|:------:|:-----:|:------:|
 |      INTRO      | 0.ogg  |  1.ogg   |  11.ogg  |          |          |        |        |       |        |
 |       C1        | 19.ogg |  25.ogg  |  20.ogg  |          |          |        |        |       |        |
