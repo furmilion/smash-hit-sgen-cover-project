@@ -197,7 +197,7 @@ Multiplayer stage map: `1-2-3-4-5-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-2-2-3-3-4-
 
 ---
 
-<a href="completed"><a/>
+<a name="#completed"><a/>
 The completed song table:
 
 `✓` - Done
@@ -219,7 +219,7 @@ The completed song table:
 |    `bowling`    | **✗**  |
 ---
 
-<a href="stagemap"><a/>
+<a name="#stagemap"><a/>
 The checkpoint-stage to song map:
 
 | checkpoint/Zone |   Z1   |    Z2    |    Z3    |    Z4    |    Z5    |   Z6   |   Z7   |  Z8   |   Z9   |
