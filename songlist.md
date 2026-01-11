@@ -106,7 +106,7 @@ Stage 3 "part3":
 `17.ogg`
 
 ## Checkpoint 9 "Phosphor":
-Stage 1 "part1":
+Stage 1 "part1" (twice):
 `26.ogg`
 
 Stage 2 "part2":
