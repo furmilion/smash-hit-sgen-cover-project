@@ -200,7 +200,7 @@ Multiplayer stage map: `1-2-3-4-5-6-7-7-8-9-2-2-3-3-4-4-5-6-6-7-7-8-9-2-2-3-3-4-
 <a name="completed"></a>
 The completed song table:
 
-`✓` - Done
+`✓` - Done; if a song has 2 parts (e.g. 38_1 and 38_2), then there will be 2 marks of either type
 `#` - WIP
 `✗` - Not started
 
